@@ -1,4 +1,4 @@
-# AMO
+# AMO [This license is currently under review by the legal team. The repository will be fully available in the coming weeks.]
 Independent and bare-bones algorithm code for AMO: Agentic Meta-Orchestrator for Multi-task Copilots
 
 ##  ⚠️ Important Legal Notice 
